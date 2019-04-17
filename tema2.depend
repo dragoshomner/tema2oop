@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1555532500 source:d:\system documents\desktop\faculate\oop\tema2\main.cpp
+	<fstream>
+	<iostream>
+	<math.h>
+	"Complex.h"
+	"Matrice.h"
+	"Matrice_oarecare.h"
+	"Matrice_patratica.h"
+
+1555532913 d:\system documents\desktop\faculate\oop\tema2\complex.h
+
+1555530884 d:\system documents\desktop\faculate\oop\tema2\matrice.h
+
+1555521852 d:\system documents\desktop\faculate\oop\tema2\matrice_oarecare.h
+
+1555532798 d:\system documents\desktop\faculate\oop\tema2\matrice_patratica.h
+
